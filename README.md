@@ -1,9 +1,7 @@
 # 📊 Sales Dashboard Project
 
 This project is an interactive **Sales Dashboard** built in Excel to analyze sales performance across months, categories, products, cities, and customer occasions.  
-It provides a clear overview of business insights and customer behavior.
-
----
+It provides a clear overview of business insights and customer behavior
 
 ## 🚀 Features
 - **KPIs**:  
@@ -26,12 +24,7 @@ It provides a clear overview of business insights and customer behavior.
 
 ---
 
-## 📷 Dashboard Preview
-![Dashboard Preview](./Screenshot.png)
 
-*(Replace `Screenshot.png` with your actual file name if different)*
-
----
 
 ## 🛠️ Tools & Skills Used
 - **Microsoft Excel**  
